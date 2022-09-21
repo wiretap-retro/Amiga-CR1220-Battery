@@ -1,0 +1,22 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(5.1.6)-1*%
+%TF.CreationDate,2022-09-21T11:03:18-04:00*%
+%TF.ProjectId,Amiga-CR1220,416d6967-612d-4435-9231-3232302e6b69,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Paste,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (5.1.6)-1) date 2022-09-21 11:03:18*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10R,0.900000X0.800000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,Q1*%
+X155500000Y-116000000D03*
+X155500000Y-117900000D03*
+X153500000Y-116950000D03*
+%TD*%
+M02*
