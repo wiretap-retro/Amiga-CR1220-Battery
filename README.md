@@ -1,4 +1,4 @@
-# Amiga-CR1220-Battery
+# Amiga CR1220 Battery
 A small CR1220/1225 battery holder for the Amiga and other boards.
 
 ![pic](pic.jpg)
