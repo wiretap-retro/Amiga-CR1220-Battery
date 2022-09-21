@@ -11,6 +11,7 @@ This is a simple Amiga battery replacement design based on dec0de Consulting / L
 * Renata SMTU1220-LF or SMTU1225-LF battery holder, depending which battery you want to use
 * Infineon IRLML6402 or IRLML6401 P-channel MOSFET (SOT-23)
 * 3x 1x1-pin 2.54mm male pin headers
+* CR1220 or CR1225 battery
 
 ## Assembly
 * Solder Q1 to the back side of the board.
